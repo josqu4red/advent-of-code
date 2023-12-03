@@ -17,4 +17,3 @@ executable advoc23
     build-depends:
         base ^>= 4.17.2.0
       , advoc23
-      , http-conduit
