@@ -1,9 +1,9 @@
 module Main where
 
 import System.IO
-import Day2 (day2s1, day2s2)
+import Day4 (day4s1, day4s2)
 
 main :: IO ()
 main = do
-  day2s1
-  day2s2
+  day4s1
+  day4s2
